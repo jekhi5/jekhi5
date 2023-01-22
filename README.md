@@ -4,7 +4,8 @@
 this.name = "Jacob Kline";
 this.pronouns = String[3]{"He", "Him", "His"};
 this.school = "Northeastern University";
-this.yearInSchool = 2;
+this.yearInSchool = "Junior";
+this.GPA = 3.624/4.0;
 ```
 
 I'm from Chicago, IL and I'm excited to welcome you to my GitHub portfolio! Here you'll find some of my favorite projects, like my work on Advent of Code, an ImageProcessor, and a Chess game that I'm still working on.
