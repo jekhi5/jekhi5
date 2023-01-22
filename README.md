@@ -2,7 +2,7 @@
 
 ```
 this.name = "Jacob Kline";
-this.pronouns = int[3]{"He", "Him", "His"};
+this.pronouns = String[3]{"He", "Him", "His"};
 this.school = "Northeastern University";
 this.yearInSchool = 2;
 ```
