@@ -21,9 +21,9 @@ I'm currently looking for a co-op through Northeastern's co-op program in the ti
 - Swift | ★★★☆☆
 -----------------------------
 - *English* | Mother Tongue
-- *Hebrew* | ★★★★☆
-- *Arabic* | ★★★☆☆
-- *Mandarin* | ★★☆☆☆
+- *Hebrew* | Professional Fluency
+- *Arabic* | Conversational Fluency
+- *Mandarin* | Basic Conversational
 
 ## Interests:
 
