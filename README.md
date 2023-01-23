@@ -27,6 +27,7 @@ I'm currently looking for a co-op through Northeastern's co-op program in the ti
 
 ## Interests:
 
+- Medicine
 - Improv Comedy
 - Stand-up Comedy
 - Chess
