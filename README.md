@@ -17,7 +17,7 @@ I'm currently looking for a co-op through Northeastern's co-op program in the ti
 - Racket | ★★★★☆
 - Lisp | ★★★★☆
 - JS (React)/HTML/CSS | ★★★★☆
-- Python | ★★★☆☆
+- Python | ★★★★☆
 - Swift | ★★★☆☆
 -----------------------------
 - *English* | Mother Tongue
