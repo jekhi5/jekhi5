@@ -1,16 +1,27 @@
 ### Welcome!
 
-```
-this.name = "Jacob Kline";
-this.pronouns = String[3]{"He", "Him", "His"};
-this.school = "Northeastern University";
-this.yearInSchool = "Junior";
-this.GPA = 3.624/4.0;
+```Java
+class Jekhi5 {
+
+  public String name;
+  public String[] pronouns;
+  public String school;
+  public String yearInSchool;
+  private double GPA;
+
+  public Jekhi5 {
+    this.name = "Jacob Kline";
+    this.pronouns = String[3]{"He", "Him", "His"};
+    this.school = "Northeastern University";
+    this.yearInSchool = "Junior";
+    this.GPA = 3.624/4.0;
+  }
+}
 ```
 
-I'm from Chicago, IL and I'm excited to welcome you to my GitHub portfolio! Here you'll find some of my favorite projects, like my work on Advent of Code, an ImageProcessor, and a Chess game that I'm still working on.
+I'm a queer nerd from Chicago, IL and I'm excited to welcome you to my GitHub portfolio! Here you'll find some of my favorite projects, like my work on a SNAP Benefit compliant grocery store locator, Advent of Code, and a Chess game that I'm still working on.
 
-I'm currently looking for a co-op through Northeastern's co-op program in the time-frame of July-December 2023 in a software engineer/developer role!
+I'm a student at Northeastern University, currently working as a software engineering co-op at Wood Mackenzie in their Boston office!
 
 ## Langauges:
 - Java | ★★★★☆
@@ -27,7 +38,6 @@ I'm currently looking for a co-op through Northeastern's co-op program in the ti
 
 ## Interests:
 
-- Medicine
 - Improv Comedy
 - Stand-up Comedy
 - Chess
@@ -36,4 +46,5 @@ I'm currently looking for a co-op through Northeastern's co-op program in the ti
 
 ## Contact Info:
 
-Email: [`jacobk513@gmail.com`](mailto:jacobk513@gmail.com) | [`kline.ja@northeastern.edu`](mailto:kline.ja@northeastern.edu)
+Email: [`jacobk513@gmail.com`](mailto:jacobk513@gmail.com) | [`kline.ja@northeastern.edu`](mailto:kline.ja@northeastern.edu) \
+LinkedIn: [linkedin.com/in/Jacob-E-Kline](https://www.linkedin.com/in/jacob-e-kline)
