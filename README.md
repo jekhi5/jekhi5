@@ -24,12 +24,13 @@ I'm a queer nerd from Chicago, IL and I'm excited to welcome you to my GitHub po
 I'm a student at Northeastern University, currently working as a software engineering co-op at Wood Mackenzie in their Boston office!
 
 ## Langauges:
-- Java | ★★★★☆
-- Racket | ★★★★☆
-- Lisp | ★★★★☆
-- JS (React)/HTML/CSS | ★★★★☆
-- Python | ★★★★☆
-- Swift | ★★★☆☆
+- Java
+- JS/TS
+- Racket
+- Lisp
+- React/HTML/CSS
+- Python
+- Swift
 -----------------------------
 - *English* | Mother Tongue
 - *Hebrew* | Professional Fluency
