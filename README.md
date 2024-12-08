@@ -25,7 +25,7 @@ I'm a student at Northeastern University and have co-op'ed at Wood Mackenzie as 
 
 I'm currently looking for a full-time software engineering position beginning after my graduation this upcoming May, 2025. Feel free to peruse my project or check out my [resume](https://github.com/jekhi5/MyInformation/blob/main/Jacob%20Kline.pdf). I'm looking forward to connecting with you!
 
-## Langauges:
+## Languages:
 - Java
 - JS/TS (React)
 - Racket
@@ -44,7 +44,7 @@ I'm currently looking for a full-time software engineering position beginning af
 - Improv & Stand-up Comedy
 - Chess
 - Reproductive Justice
-- Langauge learning
+- Language learning
 
 ## Contact Info:
 
