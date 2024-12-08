@@ -19,16 +19,18 @@ class Jekhi5 {
 }
 ```
 
-I'm a queer nerd from Chicago, IL studying computer science on the pre-med track! Welcome you to my GitHub portfolio! Here you'll find some of my favorite projects, like my work on a SNAP Benefit compliant grocery store locator, Advent of Code, and a Chess game that I'm still working on.
+Hi! My name is Jacob, I'm from Chicago, and I'm studying computer science on the pre-med track. Welcome to my GitHub portfolio! Here you'll find some of my projects.
 
-I'm a student at Northeastern University and have co-op'ed at Wood Mackenzie as a Full-Stack Software Engineer in their Boston office and as a Clinical Assistant in the Boston Children's Hospital Emergency Department.
+I'm a student at Northeastern University and have co-op'ed at Wood Mackenzie as a Full-Stack Software Engineer in their Boston office and as a Clinical Assistant in the Boston Children's Hospital Emergency Department. 
+
+I'm currently looking for a full-time software engineering position beginning after my graduation this upcoming May, 2025. Feel free to peruse my project or check out my [resume](https://github.com/jekhi5/MyInformation/blob/main/Jacob%20Kline.pdf). I'm looking forward to connecting with you!
 
 ## Langauges:
 - Java
-- JS/TS
+- JS/TS (React)
 - Racket
 - Lisp
-- React/HTML/CSS
+- C
 - Python
 - Swift
 -----------------------------
@@ -39,8 +41,7 @@ I'm a student at Northeastern University and have co-op'ed at Wood Mackenzie as 
 
 ## Interests:
 
-- Improv Comedy
-- Stand-up Comedy
+- Improv & Stand-up Comedy
 - Chess
 - Reproductive Justice
 - Langauge learning
