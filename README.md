@@ -25,26 +25,25 @@ I'm a student at Northeastern University and have co-op'ed at Wood Mackenzie as 
 
 I'm currently looking for a full-time software engineering position beginning after my graduation this upcoming May, 2025. Feel free to peruse my project or check out my [resume](https://github.com/jekhi5/MyInformation/blob/main/Jacob%20Kline.pdf). I'm looking forward to connecting with you!
 
-## Languages:
-- Java
-- JS/TS (React)
-- Racket
-- Lisp
-- C
-- Python
-- Swift
------------------------------
+## Skills and Programming Langauges:
+TypeScript, React, MongoDB, Firebase, Express, Node, Python, Java, Racket, GraphQL, Django, Git, Vim, Docker, Jenkins, ElasticSearch, MediaPipe
+
+## Spoken Languages:
 - *English* | Mother Tongue
-- *Hebrew* | Professional Fluency
-- *Arabic* | Conversational Fluency
-- *Mandarin* | Basic Conversational
+- *Hebrew* | CEFR C1
+- *Arabic* | CEFR B1
+- *Mandarin* | CEFR A2
 
 ## Interests:
 
+- Open source development
+- algorithm optimization
 - Improv & Stand-up Comedy
 - Chess
 - Reproductive Justice
 - Language learning
+
+![Duolingo Stats](https://github-duolingo-widget.onrender.com/api/duolingo-badge?username=jekhi5)
 
 ## Contact Info:
 
